@@ -6,11 +6,16 @@ Parte 1: Camino más corto**
 
 Se plantea una solucion basada en el algoritmo de djikstra para poder encontrar el camino mas corto
 
+make p1
+
 **Projecto #2
 Ángulos** 
 
 El codigo segun las coordenadas que ponga el usuario el mismo dira si el poligono formado
 es convexo o no convexo y si es convexo imprimira los angulos internos del mismo
+
+
+make p2
 
 
 
@@ -23,3 +28,5 @@ esto se va haciendo de forma dinamica hasta insertar el caracter de finalizacion
 pares de numeros. 
 Finalmente imprime la matriz antes y despues de insertar los valores y el puntero de
 cada elemento de las filas 
+
+make p3
