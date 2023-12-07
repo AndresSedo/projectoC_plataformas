@@ -1,5 +1,10 @@
-# projectoC_plataformas
 # Proyecto de Curso Plataformas II-2023
+
+*Integrantes*
+- Andres Sedo Esquivel B66740
+- Christopher Fernandez Vivas B82951
+- Pedro Arce Hernández C18850
+
 
 **Projecto #1
 Parte 1: Camino más corto**
